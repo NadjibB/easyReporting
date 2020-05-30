@@ -1,5 +1,6 @@
 library(shiny)
 library(shinydashboard)
+library(shinydashboardPlus)
 
 ui <- dashboardPage(skin = 'black',
     dashboardHeader(title = "KPI RH"),
